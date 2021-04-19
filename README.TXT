@@ -5,6 +5,7 @@ Copy the verhash.dat file from the wallet into the folder
 
 Best performance NVIDIA:
 Downclock the core clock max, oc on the memory clock. Use The pill for GDDR5 cards (1080, 1080ti, Tital XP) 
+P106-090 ~380Khash
 Rtx 3060 ~1Mhash
 
 Best performance opencl:
