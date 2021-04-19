@@ -5,7 +5,11 @@ Copy the verhash.dat file from the wallet into the folder
 
 Best performance NVIDIA:
 Downclock the core clock max, oc on the memory clock. Use The pill for GDDR5 cards (1080, 1080ti, Tital XP) 
+Rtx 3060 ~1Mhash
 
 Best performance opencl:
-Run with straps modded bios and msi afterburner to reach 560h/s ++ on the rx 580. I get best results with Elpida/micron 
-cards.
+Run with straps modded bios and msi afterburner to reach 600+h/s ++ on the rx 580. 
+Run with straps modded bios and msi afterburner to reach 570+h/s ++ on the rx 570.
+core: 1400-1450
+mem: 2000-2150
+elpida/micron max at around 2050, hynix 2200
