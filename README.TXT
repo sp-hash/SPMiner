@@ -1,4 +1,4 @@
-SPMiner 2 fix 4 for vertcoin releases 14-april-2021  (~1% fee)
+SPMiner 3 for vertcoin releases 21-april-2021  (~1% fee)
 Opencl/cuda
 
 Copy the verhash.dat file from the wallet into the folder
