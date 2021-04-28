@@ -1,7 +1,7 @@
-SPMiner 3 for vertcoin releases 21-april-2021  (~1% fee)
+SPMiner 4 for vertcoin releases 28-april-2021  (~1% fee)
 Opencl/cuda
 
-Copy the verhash.dat file from the wallet into the folder
+Copy the verhash.dat file from the wallet into the folder or wait for autogeneration
 
 Best performance NVIDIA:
 Downclock the core clock max, oc on the memory clock. Use The pill for GDDR5 cards (1080, 1080ti, Tital XP) 
